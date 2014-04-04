@@ -1,6 +1,14 @@
 hercules_lcd
 ============
 
+YouTube videos:
+---------------
+
+TI Hercules LaunchPad with Arduino LCD shield (SainSmart LCD Keypad) part 1
+http://youtu.be/gaA7ILWg-4E
+
+
+
 This code is not my invention. I took the LiquidChrystal library from arduino and ported from C++ to C, and from arduino to TI hercules launchpad
 
 
