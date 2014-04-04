@@ -9,7 +9,7 @@ http://youtu.be/gaA7ILWg-4E
 
 
 
-This code is not my invention. I took the LiquidChrystal library from arduino and ported from C++ to C, and from arduino to TI hercules launchpad
+This code is not my invention. I took the LiquidCrystal library from arduino and ported from C++ to C, and from arduino to TI hercules launchpad
 
 
 Software:
