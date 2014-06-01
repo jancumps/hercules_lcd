@@ -1,7 +1,10 @@
 hercules_lcd
 ============
 
-This library is moved to the hercules_libraries subfolder.
+This library is moved to the hercules_libraries subfolder
+https://github.com/jancumps/hercules_libraries/tree/master/lcd
+
+
 The example main file is kept here.
 
 YouTube videos:
