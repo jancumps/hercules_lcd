@@ -1,6 +1,9 @@
 hercules_lcd
 ============
 
+This library is moved to the hercules_libraries subfolder.
+The example main file is kept here.
+
 YouTube videos:
 ---------------
 
